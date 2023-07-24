@@ -35,7 +35,7 @@ export default function Login() {
   return (
     <section className="m-10 w-96 mx-auto">
       <h1 className="font-bold text-xl mb-4 text-center">
-        Login in to your account
+        Login in to your account.
       </h1>
       <form onSubmit={LoginUser} className="flex flex-col gap-3">
         <input
